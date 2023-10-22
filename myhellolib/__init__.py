@@ -1,1 +1,1 @@
-from myhellolib import *
+from .myhellolib import *
